@@ -1,4 +1,3 @@
-
 %% PCB defect localization via defect-free reference (public release)
 % Training-free defect localization for the PCB dataset using a defect-free reference.
 % Before running (required)
