@@ -98,7 +98,25 @@ Common knobs:
 - **Long runtime during figure generation**: the script prints an info message; this step can be slow on CPU. Disable via `cfg.paperFigs.enable = false` if you only need detections/evaluation.
 - **Folder-name mismatch (parentheses)**: the script accepts both full-width `（ ）` and ASCII `( )` for the key dataset subfolders.
 
-## Citation / status
+## Citation
 
-If you use this code in academic work, cite the associated paper. If you don’t see a citation entry in the repository yet, check the header comment in **v0_14_eval2_release1.m** for the latest notes.
+MDPI and ACS Style
+```
+Saiyod, S.; Nonsakhoo, W.; Li, Z.; Sirisawat, P. Defect-Intent Ambiguity Addressing for Training-Free Deterministic PCB Defect Localization via Template Selection and Dissimilarity Mapping. Sensors 2026, 26, 1541. https://doi.org/10.3390/s26051541
+```
+
+AMA Style
+```
+Saiyod S, Nonsakhoo W, Li Z, Sirisawat P. Defect-Intent Ambiguity Addressing for Training-Free Deterministic PCB Defect Localization via Template Selection and Dissimilarity Mapping. Sensors. 2026; 26(5):1541. https://doi.org/10.3390/s26051541
+```
+
+Chicago/Turabian Style
+```
+Saiyod, Saiyan, Woottichai Nonsakhoo, Zhengping Li, and Piyanat Sirisawat. 2026. "Defect-Intent Ambiguity Addressing for Training-Free Deterministic PCB Defect Localization via Template Selection and Dissimilarity Mapping" Sensors 26, no. 5: 1541. https://doi.org/10.3390/s26051541
+```
+
+APA Style
+```
+Saiyod, S., Nonsakhoo, W., Li, Z., & Sirisawat, P. (2026). Defect-Intent Ambiguity Addressing for Training-Free Deterministic PCB Defect Localization via Template Selection and Dissimilarity Mapping. Sensors, 26(5), 1541. https://doi.org/10.3390/s26051541
+```
 
