@@ -1,8 +1,6 @@
 
 # PCB defect localization (MATLAB script)
 
-## NOTE: The associated paper is currently under review. This script version is provided exclusively to reviewers during the review stage and is not the polished official public release.
-
 This folder contains the runnable MATLAB script **v0_14_eval2_release1.m** for training-free PCB defect localization using a defect-free reference image (template), plus optional evaluation against VOC-style XML annotations.
 
 ## Prerequisites
