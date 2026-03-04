@@ -120,3 +120,5 @@ APA Style
 Saiyod, S., Nonsakhoo, W., Li, Z., & Sirisawat, P. (2026). Defect-Intent Ambiguity Addressing for Training-Free Deterministic PCB Defect Localization via Template Selection and Dissimilarity Mapping. Sensors, 26(5), 1541. https://doi.org/10.3390/s26051541
 ```
 
+Original online page: https://doi.org/10.3390/s26051541
+
