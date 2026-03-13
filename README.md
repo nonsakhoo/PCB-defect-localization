@@ -3,6 +3,8 @@
 
 This folder contains the runnable MATLAB script **v0_14_eval2_release1.m** for training-free PCB defect localization using a defect-free reference image (template), plus optional evaluation against VOC-style XML annotations.
 
+Original paper page: https://doi.org/10.3390/s26051541
+
 ## Prerequisites
 
 - MATLAB (tested as a script with local functions).
@@ -118,5 +120,5 @@ APA Style
 Saiyod, S., Nonsakhoo, W., Li, Z., & Sirisawat, P. (2026). Defect-Intent Ambiguity Addressing for Training-Free Deterministic PCB Defect Localization via Template Selection and Dissimilarity Mapping. Sensors, 26(5), 1541. https://doi.org/10.3390/s26051541
 ```
 
-Original online page: https://doi.org/10.3390/s26051541
+Original paper page: https://doi.org/10.3390/s26051541
 
