@@ -3,6 +3,8 @@
 
 This folder contains the runnable MATLAB script **v0_14_eval2_release1.m** for training-free PCB defect localization using a defect-free reference image (template), plus optional evaluation against VOC-style XML annotations.
 
+![screenshot](sensors-26-01541-g001.png)
+
 Original paper page: https://doi.org/10.3390/s26051541
 
 ## Prerequisites
