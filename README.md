@@ -69,6 +69,8 @@ Outputs are written under `dev/outputs/` into a run folder named like:
 
 Depending on flags in `defaultConfig()` you may get:
 
+![output-screenshot](sensors-26-01541-g003.jpg)
+
 - Figures (`.png`, and optionally `.fig`)
 - `evaluation_report.mat` (most complete)
 - `evaluation_report.json` (compact summary)
